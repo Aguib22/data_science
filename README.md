@@ -2,7 +2,7 @@
 
 Ce dépôt contient des ressources, tutoriels et exemples pour apprendre les bases de la Data Science avec la bibliothèque Pandas en Python.
 
-## 📌 Contenu
+##  Contenu
 
 - **Introduction à Pandas**
   - Structures de données (Series, DataFrame)
@@ -24,7 +24,7 @@ Ce dépôt contient des ressources, tutoriels et exemples pour apprendre les bas
   - Intégration avec Matplotlib
   - Graphiques de base (histogrammes, scatter plots)
 
-## 📋 Prérequis
+##  Prérequis
 
 - Python 3.x
 - Bibliothèques :
