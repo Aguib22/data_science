@@ -1,0 +1,6 @@
+ID,Nom,Prénom,Classe,Maths,Physique,Français,Histoire,Génie
+1,Dupont,Jean,TerminaleA,15.0,12.0,14,16,8
+2,Martin,Sophie,TerminaleB,18.0,,13,15,12
+3,Bernard,Luc,TerminaleA,11.0,14.0,12,10,15
+4,Petit,Emma,PremièreC,16.0,13.0,17,14,11
+5,Durand,Pierre,TerminaleB,,16.0,10,13,9
